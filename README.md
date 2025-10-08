@@ -1,6 +1,6 @@
 # 🌽 Node Farm 🥦
 
-A simple Node.js server-side rendered web app that displays farm products using custom HTML templates. Built with vanilla Node.js — no frameworks!
+A simple Node.js server-side rendered web app that displays farm product data using custom HTML templates. Built entirely with vanilla Node.js — no frameworks or external packages.
 
 ## 📦 Features
 
@@ -23,7 +23,7 @@ cd node-farm
 
 ### 2. Install dependencies
 
-> No external dependencies required — pure Node.js!
+> ✅ No external dependencies required — this project uses only built-in Node.js modules (`fs`, `http`, `url`). No need to run `npm install`.
 
 ### 3. Run the server
 
