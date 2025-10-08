@@ -37,6 +37,17 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 ---
 
+### 🛠 Optional: Use nodemon for development
+
+To auto-restart the server when files change, install nodemon globally:
+
+```bash
+npm install -g nodemon
+nodemon app.js
+```
+
+---
+
 ## 🗂 Project Structure
 
 ```
