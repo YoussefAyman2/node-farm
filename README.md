@@ -17,7 +17,7 @@ A simple Node.js server-side rendered web app that displays farm product data us
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/node-farm.git
+git clone https://github.com/YoussefAyman2/node-farm.git
 cd node-farm
 ```
 
